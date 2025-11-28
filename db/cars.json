@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "model": "ferrari",
+    "price": 100,
+    "ownerId": "1"
+  },
+  {
+    "id": "2",
+    "model": "flkhri",
+    "price": 10000,
+    "ownerId": "1"
+  },
+  {
+    "id": "3",
+    "model": "ffff",
+    "price": 100,
+    "ownerId": "1"
+  },
+  {
+    "id": "4",
+    "model": "45",
+    "price": 100,
+    "ownerId": "1"
+  },
+  {
+    "id": "5",
+    "model": "ffff",
+    "price": 50,
+    "ownerId": "1"
+  },
+  {
+    "id": "6",
+    "model": "ffff",
+    "price": 50,
+    "ownerId": "1"
+  },
+  {
+    "id": "7",
+    "model": "ffff",
+    "price": 50,
+    "ownerId": "5"
+  },
+  {
+    "id": "8",
+    "model": "ffff",
+    "price": 50,
+    "ownerId": "1"
+  },
+  {
+    "id": "9",
+    "model": "ffff",
+    "price": 4,
+    "ownerId": "5"
+  }
+]

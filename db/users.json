@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "balance": 69650
+  },
+  {
+    "id": "2",
+    "username": "kkkkkk",
+    "password": "123mg",
+    "role": "user",
+    "balance": 2300
+  },
+  {
+    "id": "3",
+    "username": "bbvv",
+    "password": "ffffffff",
+    "role": "user",
+    "balance": 1050
+  },
+  {
+    "id": "5",
+    "username": "4562",
+    "password": "12123",
+    "role": "user",
+    "balance": 11600
+  },
+  {
+    "id": "user_1762637663519",
+    "username": "jjjjj",
+    "password": "yyyy",
+    "role": "user",
+    "balance": 1000
+  }
+]
